@@ -54,7 +54,7 @@ An intelligent fashion discovery platform that combines **search, filtering, per
 - Incorporated views, clicks, wishlist and cart activity into ranking
 - Developed a scoring-based recommendation pipeline
 
-🔗 [View Repository](https://github.com/vanshika-1136)
+🔗 [View Repository](https://github.com/vanshika-1136/StyleSense)
 
 ---
 
@@ -69,6 +69,8 @@ A role-based healthcare management application for managing patients, doctors, I
 - Designed a relational PostgreSQL database
 - Integrated frontend and backend services
 
+🔗 [View Repository](https://github.com/vanshika-1136/Hospital_management_system)
+
 ---
 
 ### 🤖 AI SQL Query Assistant
@@ -82,6 +84,8 @@ An AI-powered application that converts natural-language questions into SQL quer
 - Restricts generated queries to safe `SELECT` operations
 - Integrated PostgreSQL with an LLM-powered backend
 
+🔗 [View Repository](https://github.com/vanshika-1136/AI-SQL-ASSISTANT)
+
 ---
 
 ### 🩺 RAG Medical Chatbot
@@ -94,6 +98,8 @@ A document-grounded medical question-answering application using Retrieval-Augme
 - Stored embeddings in FAISS for similarity-based retrieval
 - Used retrieved context to generate grounded responses
 - Built an interactive Streamlit interface
+
+🔗 [View Repository](https://github.com/vanshika-1136/Medical_Chatbot)
 
 ---
 

@@ -13,7 +13,6 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -127,8 +126,6 @@ A document-grounded medical question-answering application using Retrieval-Augme
 💼 [LinkedIn](https://linkedin.com/in/vanshika-dhariya-486a872b1)
 
 💻 [LeetCode](https://leetcode.com/u/vanshika_dhariya/)
-
-📧 Open to **Software Development Internships and Full-Time Opportunities**
 
 ---
 
